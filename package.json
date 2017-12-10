@@ -1,0 +1,24 @@
+{
+  "name": "prj-crud-php",
+  "version": "1.0.0",
+  "description": "crud e sistema de login basico, desenvolvido em php",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdilsonJR/prj-crud-php.git"
+  },
+  "author": "Adilson J.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdilsonJR/prj-crud-php/issues"
+  },
+  "homepage": "https://github.com/AdilsonJR/prj-crud-php#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
+  }
+}
